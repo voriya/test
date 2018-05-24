@@ -3,5 +3,6 @@ void mian()
 {
   printf("hello word!!");
   printf("hello word again!");
-	printf("hello :q")
+	add a line
+printf("hello :q")
 }
