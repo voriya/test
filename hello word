@@ -1,6 +1,0 @@
-#include<stdio.h>
-void mian()
-{
-  printf("hello word again!");
-	printf("hdddddq")
-}
